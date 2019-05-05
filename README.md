@@ -103,4 +103,4 @@ or
 ## Train via yourself
 By running `python train_HMM.py`,`python train_MEMM.py` and `python train_lstm.py`, you can train a model by yourself.
 
-
+## The LSTM model is based on https://github.com/wb14123/seq2seq-couplet
