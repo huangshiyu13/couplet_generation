@@ -1,6 +1,5 @@
 # couplet_generation
 
-## Description
 couplet generation system(对联生成系统)
 
 ## Dependencies
