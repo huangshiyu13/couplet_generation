@@ -93,10 +93,11 @@ or
 - lstm output:仲夏麦田万亩稻
 - review：可以看出,HMM 和 MEMM 的输出可谓前后不搭,而神经网络的输出,“麦田”与
 “稻”遥相呼应,“千家雨”与“万亩稻”也对应得非常好。
-输入:月透柳帘窥案卷
-HMM 输出:花开花院落花开
-MEMM 输出:花飞花果三千秋
-seq2seq 输出:风吹竹管动窗纱
+---
+- input:月透柳帘窥案卷
+- HMM output:花开花院落花开
+- MEMM output:花飞花果三千秋
+- lstm output:风吹竹管动窗纱
 ---
 
 ## Train via yourself
