@@ -18,9 +18,6 @@ or
 
 , and put them under `./data/` and `./weights/`
 
-## Pretrained Model
-
-You can download pretrained from , and put them under `./weights/`
  
 ### Methods
 
